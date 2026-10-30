@@ -1,0 +1,13 @@
+#[2];computing;1;file4.txt;1#
+#[2];cloud;1;file4.txt;1#
+#[3];driver;1;file2.txt;1#
+#[3];device;1;file2.txt;1#
+#[4];embedded;3;file4.txt;1file2.txt;1file1.txt;1#
+#[6];gateway;1;file4.txt;1#
+#[8];iot;1;file4.txt;1#
+#[11];lily;1;file1.txt;1#
+#[12];max;1;file4.txt;1#
+#[12];microcontroller;2;file2.txt;1file1.txt;1#
+#[18];sensor;1;file1.txt;1#
+#[18];system;3;file4.txt;1file2.txt;1file1.txt;1#
+#[21];verstappen;1;file4.txt;1#
